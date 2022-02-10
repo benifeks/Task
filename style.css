@@ -1,0 +1,13 @@
+.fon {
+    box-shadow: 5px 5px 10px 1px #000;
+    color: Red;
+    font-size: 25px;
+    background-color: #00FFFF;
+  }
+  
+  .fonBtn {
+    box-shadow: 5px 5px 10px 1px #000;
+    color: Red;
+    font-size: 15px;
+    background-color: #00FFFF;
+  }
